@@ -1,0 +1,19 @@
+.container{
+    display: grid;
+    gap: 6px;
+    grid-template-columns: repeat(2, 3fr);
+}
+.box{
+    width: 350px;
+    height: 350px;
+    background-color: aqua;
+    border-radius: 32px;}
+.box:hover{
+    background-image: url('https://cdn.imgbin.com/2/12/14/imgbin-itachi-uchiha-madara-uchiha-sasuke-uchiha-obito-uchiha-uchiha-clan-naruto-e6iLCY7y5SxaywCvd9WEefKmW.jpg');
+    border-radius: 50%;
+    background-color: aquamarine;
+    transition-duration: 3s;
+    transform: rotate(45deg);
+    left: 50%;
+    top: 50%;
+}
