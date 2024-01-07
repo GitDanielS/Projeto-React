@@ -1,5 +1,5 @@
 import './App.css';
-import MediaRecord from './componentes/MediaRecord'//Aqui estou importando o componente
+import MediaRecord from './componentes/MediaRecord'//Aqui estou importando o componente.
 
 function App() {
   return (

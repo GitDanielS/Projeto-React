@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 const Gravador = function() {
-  // Estados para armazenar a transcrição, estado de gravação e objeto de reconhecimento
+  // Estados para armazenar a transcrição, estado de gravação e objeto de reconhecimento.
   const [transcricao, setTranscricao] = useState('');
   const [estaGravando, setEstaGravando] = useState(false);
   const [reconhecimento, setReconhecimento] = useState(null);
