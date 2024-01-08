@@ -11,7 +11,8 @@ Este projeto é um exemplo de um gravador de áudio simples implementado em Reac
 
 - React
 - JavaScript
-- API MediaRecorder
+- API MediaRecorde
+- Tailwind(css)
 
 ## Estrutura do Projeto
 
