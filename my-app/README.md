@@ -1,3 +1,38 @@
+# Gravador de Áudio em React
+
+Este projeto é um exemplo de um gravador de áudio simples implementado em React utilizando a API MediaRecorder.
+
+## Funcionalidades
+
+- Inicia, pausa e retorna a gravação de áudio.
+- Exibe a transcrição da gravação.
+
+## Tecnologias Utilizadas
+
+- React
+- JavaScript
+- API MediaRecorder
+
+## Estrutura do Projeto
+
+- `src/`: Contém os arquivos fonte do projeto.
+  - `GravadorDeAudio.js`: Componente principal do gravador de áudio.
+
+## Como Executar o Projeto
+
+1. Clone o repositório.
+2. Instale as dependências usando `npm install`.
+3. Inicie o aplicativo com `npm start`.
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
